@@ -1,10 +1,10 @@
 # CTF-Calendar
 Python script to fetch upcoming CTF competitions and add them to your google calendar. Made with python 3.5.1
-##Requirments
+## Requirments
 * BeautifulSoup
 
-##Steps to use
-####Step 1: Turn on the Google Calendar API
+## Steps to use
+#### Step 1: Turn on the Google Calendar API
 *  Use [this wizard](https://console.developers.google.com/start/api?id=calendar) to create or select a project in the Google Developers Console and automatically turn on the API. Click Continue, then Go to credentials.
 *  On the Add credentials to your project page, click the Cancel button.
 *  At the top of the page, select the OAuth consent screen tab. Select an Email address, enter Product name as CTFcalendar, and click the Save button.
